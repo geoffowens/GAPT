@@ -8,6 +8,7 @@
 
 //  Make one comment here so as to test Git setup.
 //Here's a test.
+// let's make conflicting changes to this document so as to test XCode's code merging.
 
 #import "GPTAppDelegate.h"
 
